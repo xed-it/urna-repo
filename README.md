@@ -1,1 +1,1 @@
-# urna-repo
+Sorgente per il sistema URNA di xed
