@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>URNA</title><link href="http://urna.xed.it/" rel="alternate"></link><link href="http://urna.xed.it/feeds/all.atom.xml" rel="self"></link><id>http://urna.xed.it/</id><updated>2021-04-25T00:00:00+02:00</updated><subtitle>&lt;a href="/" &gt;URNA&amp;rarr;&lt;/a&gt; conserva le&lt;br/&gt;cose a cui&lt;br/&gt;Winston Smith&lt;br/&gt;tiene</subtitle><entry><title>Test</title><link href="http://www.winstonsmith.org" rel="alternate"></link><published>2021-04-25T00:00:00+02:00</published><updated>2021-04-25T00:00:00+02:00</updated><author><name>Winston Smith</name></author><id>tag:www.winstonsmith.org,2021-04-25:</id><content type="html"></content><category term="misc"></category></entry><entry><title>Urna — il solido ripostiglio di Winston Smith</title><link href="http://urna.xed.it/urna-il-solido-ripostiglio-di-winston-smith.html" rel="alternate"></link><published>2015-04-24T10:20:00+02:00</published><updated>2015-04-24T10:20:00+02:00</updated><author><name>Winston Smith</name></author><id>tag:urna.xed.it,2015-04-24:/urna-il-solido-ripostiglio-di-winston-smith.html</id><summary type="html">&lt;p&gt;Urna è il repository dei file digitali (audio,video,pdf,ecc…) ed è anche un sito contenente informazioni di lavoro e procedure su come gestire e manutenere tutto il sistema informatico di Winston Smith.&lt;/p&gt;
+&lt;p&gt;ENTRATE A VOSTRO RISCHIO E PERICOLO.&lt;/p&gt;
+&lt;p&gt;Tutte le informazioni su questo sito sono altamente instabili e …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Urna è il repository dei file digitali (audio,video,pdf,ecc…) ed è anche un sito contenente informazioni di lavoro e procedure su come gestire e manutenere tutto il sistema informatico di Winston Smith.&lt;/p&gt;
+&lt;p&gt;ENTRATE A VOSTRO RISCHIO E PERICOLO.&lt;/p&gt;
+&lt;p&gt;Tutte le informazioni su questo sito sono altamente instabili e volatili, maneggiare con cura!&lt;/p&gt;
+&lt;h2&gt;Procedure&lt;/h2&gt;
+&lt;h3&gt;Siti PMGC (Pelican/Markdown/Github/Casellante)&lt;/h3&gt;
+&lt;p&gt;A Winston Smith non piaccono i CMS ed usa solo siti statici. Ha scelto una tecnologia basata sull'integrazione verticale del sistema &lt;a href="http://getpelican.org"&gt;Pelican&lt;/a&gt; con il formato testuale &lt;a href="http://daringfireball.net/projects/markdown/syntax"&gt;Markdown&lt;/a&gt;, il repository &lt;a href="http://github.org/progettowinstonsmith"&gt;GITHUB&lt;/a&gt; sul proprio server denominato Casellante. &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="/urna-pmgc-attivazione-di-un-sottosistema-pelicanmarkdown.html"&gt;Attivazione di un sottosistema pelican/markdown&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/urna-pgmc-come-modificare-un-sito-winston-smith.html"&gt;Come modificare una pagina di un sito PMGC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/urna-pgmc-come-pubblicare-un-sito-winston-smith.html"&gt;Come pubblicare un sito PMGC su Casellante&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><category term="misc"></category></entry><entry><title>Urna — PGMC - come modificare un sito Winston Smith</title><link href="http://urna.xed.it/urna-pgmc-come-modificare-un-sito-winston-smith.html" rel="alternate"></link><published>2015-04-24T10:20:00+02:00</published><updated>2015-04-24T10:20:00+02:00</updated><author><name>Winston Smith</name></author><id>tag:urna.xed.it,2015-04-24:/urna-pgmc-come-modificare-un-sito-winston-smith.html</id><summary type="html">&lt;p&gt;Per modificare uno dei siti Winston Smith realizzati con la catena PMGC è necessario:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Clonare (o aggiornare) il repository sorgente sul proprio sistema&lt;/li&gt;
+&lt;li&gt;Modificare i file Markdown&lt;/li&gt;
+&lt;li&gt;Rigenerare i file statici html&lt;/li&gt;
+&lt;li&gt;Verificare il risultato&lt;/li&gt;
+&lt;li&gt;Aggiornare il repository sorgente&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Dopo la conclusione di quest'ultimo passo è possibile compiere i passi …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Per modificare uno dei siti Winston Smith realizzati con la catena PMGC è necessario:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Clonare (o aggiornare) il repository sorgente sul proprio sistema&lt;/li&gt;
+&lt;li&gt;Modificare i file Markdown&lt;/li&gt;
+&lt;li&gt;Rigenerare i file statici html&lt;/li&gt;
+&lt;li&gt;Verificare il risultato&lt;/li&gt;
+&lt;li&gt;Aggiornare il repository sorgente&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Dopo la conclusione di quest'ultimo passo è possibile compiere i passi necessari alla
+&lt;a href="/urna-pgmc-come-pubblicare-un-sito-winston-smith.html"&gt;pubblicazione del sito su casellante&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I repository sorgente di Winston Smith sono i seguenti:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/progettowinstonsmith/bba-site"&gt;Big Brother Awards&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/progettowinstonsmith/e-privacy-site"&gt;E-Privacy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/progettowinstonsmith/urna-site"&gt;URNA&lt;/a&gt; (questo sito)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/progettowinstonsmith/antani-site"&gt;ANTANI&lt;/a&gt; (sito di prova, facci quello che ti va)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I collaboratori hanno accesso diretto ai repository e possono fare commit direttamente, gli altri possono comunque proporre pull-request.&lt;/p&gt;
+&lt;h3&gt;Clonare (o aggiornare) il repository sorgente sul proprio sistema&lt;/h3&gt;
+&lt;p&gt;Se non si ha una versione locale dei file di creazione del sito è possibile clonare il repository con il comando:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;git clone https://github.com/progettowinstonsmith/urna-site.git
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Verrà creata una directory &lt;code&gt;urna-site&lt;/code&gt; all'interno della quale, tra gli altri ci sono i seguenti file o directory:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;pelicanconf.py&lt;/code&gt;:
+File di configurazione del sito&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;content&lt;/code&gt;:
+Directory contenente i documenti Markdown o i file statici del sito&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;theme&lt;/code&gt;:
+Directory contenente il &lt;em&gt;tema&lt;/em&gt; di rappresentazione del sito&lt;/p&gt;
+&lt;p&gt;All'interno della directory dei contenuti (&lt;code&gt;content&lt;/code&gt;) ci sono i file delle differenti pagine presenti nel sito, ad es:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;$ ls -1 content/
+attivazione-pelican-markdown.md
+pmgc-modificare-siti.md
+urna.md
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Ciascuno di questi file rappresenta una pagina del sito in formato testuale &lt;a href="http://daringfireball.net/projects/markdown/syntax"&gt;Markdown&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Se si ha già una directory contenente il clone della directory di lavoro &lt;em&gt;è necessario&lt;/em&gt; prima della sessione di lavoro aggiornare i propri file integrando le modifiche esterne con il comando:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;git pull
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h3&gt;Modificare i file Markdown&lt;/h3&gt;
+&lt;p&gt;I file Markdown devono essere creati o modificati usando un qualsiasi editor di testi (ad es. emacs o vi). Se si creano nuove pagine Markdown è sufficiente inserirle nella directory &lt;code&gt;content&lt;/code&gt; per essere prese in considerazione per la pubblicazione, non è necessario aggiornare alcun elenco di pubblicazione.&lt;/p&gt;
+&lt;h3&gt;Rigenerare i file html&lt;/h3&gt;
+&lt;p&gt;Una volta modificata la pagina Markdown è possibile ricreare l'intero sito e tutte le sue pagine HTML usando il comando:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;make html
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Il sistema risponderà con un messaggio simile:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="n"&gt;Done&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="n"&gt;Processed&lt;/span&gt; &lt;span class="mi"&gt;3&lt;/span&gt; &lt;span class="n"&gt;article&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="o"&gt;),&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt; &lt;span class="n"&gt;draft&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt; &lt;span class="n"&gt;and&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt; &lt;span class="n"&gt;page&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt; &lt;span class="k"&gt;in&lt;/span&gt; &lt;span class="mf"&gt;0.19&lt;/span&gt; &lt;span class="n"&gt;seconds&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h3&gt;Verificare il risultato&lt;/h3&gt;
+&lt;p&gt;I file generati sono disponibili nella cartella output (per capire bene il funzionamento della directory &lt;code&gt;output&lt;/code&gt; leggere il documento sulla &lt;a href=""&gt;pubblicazione online&lt;/a&gt; ).&lt;/p&gt;
+&lt;p&gt;Per verificare il risultato sulla macchina di lavoro è possibile lanciare un server HTTP locale con il comando:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;make serve
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Un server verrà messo in esecuzione in modo sincrono e potrà essere verificato il contenuto del sito collegandosi al server (o a localhost) sulla porta 8000, ad es.:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;http://localhost:8000
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Il sito dovrà risultare completamente funzionante e navigabile.&lt;/p&gt;
+&lt;p&gt;Per chiudere il server è sufficiente bloccare il comando con CTRL-C.&lt;/p&gt;
+&lt;p&gt;È anche possibile attivare un server in background con:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;make devserver
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Che potrà essere abbattuto con il comando:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;make stopserver
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h3&gt;Aggiornare il repository sorgente&lt;/h3&gt;
+&lt;p&gt;Accertatisi della correttezza delle modifiche apportate è possibile aggiornare il repository sorgente con il comando:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;git pull
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;oppure preparando una pull-request nelle modalità solite.&lt;/p&gt;
+&lt;h3&gt;Pubblicazione del sito online&lt;/h3&gt;
+&lt;p&gt;Giunti a questo punto è possibile compiere di seguito i passi riportati nel documento di &lt;a href="/urna-pgmc-come-pubblicare-un-sito-winston-smith.html"&gt;pubblicazione del sito su casellante&lt;/a&gt;&lt;/p&gt;</content><category term="misc"></category></entry><entry><title>Urna — PGMC - come pubblicare un sito Winston Smith</title><link href="http://urna.xed.it/urna-pgmc-come-pubblicare-un-sito-winston-smith.html" rel="alternate"></link><published>2015-04-24T10:20:00+02:00</published><updated>2015-04-24T10:20:00+02:00</updated><author><name>Winston Smith</name></author><id>tag:urna.xed.it,2015-04-24:/urna-pgmc-come-pubblicare-un-sito-winston-smith.html</id><summary type="html">&lt;p&gt;Esistono due differenti modi per pubblicare un sito Winston Smith PMGC a seconda che si abbia o meno l'accesso diretto a Casellante:&lt;/p&gt;
+&lt;h2&gt;Se non hai accesso a Casellante&lt;/h2&gt;
+&lt;p&gt;In questo caso:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;se non hai accesso neppure al &lt;a href="https://github.com/progettowinstonsmith"&gt;repository&lt;/a&gt; dei siti su Github, l'unico modo di contribuire è preparare una &lt;a href="https://help.github.com/articles/creating-a-pull-request/"&gt;pull-request …&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;p&gt;Esistono due differenti modi per pubblicare un sito Winston Smith PMGC a seconda che si abbia o meno l'accesso diretto a Casellante:&lt;/p&gt;
+&lt;h2&gt;Se non hai accesso a Casellante&lt;/h2&gt;
+&lt;p&gt;In questo caso:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;se non hai accesso neppure al &lt;a href="https://github.com/progettowinstonsmith"&gt;repository&lt;/a&gt; dei siti su Github, l'unico modo di contribuire è preparare una &lt;a href="https://help.github.com/articles/creating-a-pull-request/"&gt;pull-request&lt;/a&gt; e contattare uno degli amministratori.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Se hai accesso a Casellante&lt;/h2&gt;
+&lt;p&gt;(ed hai pure particolare fretta tanto da non voler attendere l'aggiornamento periodico)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;rigenera la versione statica e senza attendere il prossimo aggiornamento periodico,&lt;/li&gt;
+&lt;li&gt;forza la sincronizzazione immediata&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Come rigenerare la versione statica del sito&lt;/h2&gt;
+&lt;p&gt;Segui semplicemente i passi già indicati in &lt;a href="/urna-pgmc-come-modificare-un-sito-winston-smith.html"&gt;come modificare un sito Winston Smith&lt;/a&gt;, nel tuo ambiente di lavoro o in quello di &lt;code&gt;ampleforth&lt;/code&gt;. Verifica sempre che il sito non abbia problemi.&lt;/p&gt;
+&lt;h2&gt;Come forzare l'immediata sincronizzazione&lt;/h2&gt;
+&lt;p&gt;Entrare nel proprio utente di Casellante ed eseguire il comando:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;~/bin/eprivacy-resync-now
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;A questo punto abbi fiducia e dopo qualche minuto verifica che sia andato tutto bene.&lt;/p&gt;
+&lt;h2&gt;Trucco veramente sporco per sincronizzare SUBITO&lt;/h2&gt;
+&lt;p&gt;Se sei uno dei pochi fortunati dotato di un accesso ssh ai siti web di casellante, puoi dare il seguente comando direttamente dalla directory &lt;code&gt;&amp;lt;progetto&amp;gt;-site&lt;/code&gt; dopo aver rigenerato (e verificato la correttezza del sito):&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;make ssh_update
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;PS - Perché questo trucco funzioni c'è un ingrediente segreto che dovrò dirti a voce.&lt;/p&gt;</content><category term="misc"></category></entry><entry><title>Urna - PMGC - Attivazione di un sottosistema pelican/markdown</title><link href="http://urna.xed.it/urna-pmgc-attivazione-di-un-sottosistema-pelicanmarkdown.html" rel="alternate"></link><published>2015-04-24T10:20:00+02:00</published><updated>2015-04-24T10:20:00+02:00</updated><author><name>Winston Smith</name></author><id>tag:urna.xed.it,2015-04-24:/urna-pmgc-attivazione-di-un-sottosistema-pelicanmarkdown.html</id><summary type="html">&lt;p&gt;Per attivare un sistema di lavorazione delle pagine web dei nuovi siti di Winston Smith è necessario attivare un sistema autonomo Pelican/Markdown sul proprio computer (i pochi sfortunati che hanno accesso ai server del PWS troveranno un sistema già attivo all'account &lt;code&gt;ampleforth&lt;/code&gt;).&lt;/p&gt;
+&lt;p&gt;Il processo è costituito in tre passi …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Per attivare un sistema di lavorazione delle pagine web dei nuovi siti di Winston Smith è necessario attivare un sistema autonomo Pelican/Markdown sul proprio computer (i pochi sfortunati che hanno accesso ai server del PWS troveranno un sistema già attivo all'account &lt;code&gt;ampleforth&lt;/code&gt;).&lt;/p&gt;
+&lt;p&gt;Il processo è costituito in tre passi:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Installazione dell'interprete Python&lt;/li&gt;
+&lt;li&gt;Creazione di un ambiente virtuale dedicato a Pelican&lt;/li&gt;
+&lt;li&gt;Installazione di Pelican e Markdown&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Se hai già a disposizione (o sai come fare in autonomia) ciascuno di questi passi, puoi direttamente saltare a quello successivo.&lt;/p&gt;
+&lt;h2&gt;Installazione di python (con Miniconda)&lt;/h2&gt;
+&lt;p&gt;Miniconda è un progetto che mette a disposizione nello spazio d'utente una installazione completa di Python e un gestore di pacchetti (conda). È un modo molto semplice per gestire ambienti virtuali e installazioni di pacchetti Python anche da parte di chi è alle prime armi. È possibile installare un interprete python con Miniconda anche se si ha già un python installato nel sistema, semplicemente ad un certo punto si sceglierà di usare quello messo a disposizione da miniconda.&lt;/p&gt;
+&lt;p&gt;Per installare Miniconda scarica il file adatto al tuo sistema operativo (Linux, Mac OS X, Windows) dalla pagina http://conda.pydata.org/miniconda.html e segui le informazioni per l'installazione (in breve: esegui il file dalla linea di comando).&lt;/p&gt;
+&lt;p&gt;La procedura d'installazione creerà una distribuzione Python completa e funzionante nella tua directory utente $HOME (di solito nella cartella &lt;code&gt;$HOME/miniconda&lt;/code&gt;). Non hai bisogno dei privilegi di amministrazione del sistema per installare miniconda. Dopo l'installazione basterà includere la directory dei binari per poter utilizzare il nuovo interprete, ad es. sui sistemi basati su Unix si userà il comando:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="k"&gt;export&lt;/span&gt; &lt;span class="n"&gt;PATH&lt;/span&gt;&lt;span class="o"&gt;=~/&lt;/span&gt;&lt;span class="n"&gt;miniconda&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;bin&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="o"&gt;$&lt;/span&gt;&lt;span class="n"&gt;PATH&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Questo comando puoi metterlo nella &lt;code&gt;.bash_profile&lt;/code&gt; per poter usare quest'interprete anche la prossima volta che ti colleghi al sistema.&lt;/p&gt;
+&lt;p&gt;Hai così installato un interprete python.&lt;/p&gt;
+&lt;h2&gt;Creazione di un ambiente virtuale per Pelican&lt;/h2&gt;
+&lt;p&gt;Sebbene sia possibile installare i pacchetti necessari al lavoro su Pelican direttamente nell'ambiente base di python è solitamente consigliato creare un ambiente virtuale python dedicato. È molto conosciuto il progetto &lt;code&gt;virtualenv&lt;/code&gt; per questo. Con Miniconda però  il sistema di distribuzione dei pacchetti (chiamato &lt;code&gt;conda&lt;/code&gt;) permette di creare ambienti di lavoro separati per progetti.&lt;/p&gt;
+&lt;p&gt;Quindi ti basterà usare il comando: &lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;conda create -n pws python pip
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;per creare un nuovo ambiente virtuale chiamato &lt;code&gt;pws&lt;/code&gt; (ma poteva essere qualsiasi altro nome). Installerà all'interno il linguaggio &lt;code&gt;python&lt;/code&gt; e il pacchetto &lt;code&gt;pip&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Per attivare l'ambiente sarà sufficiente usare il comando:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;source activate pws
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Da quel momento all'estrema sinistra del prompt vedrai l'indicazione dell'ambiente virtuale:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt; (pws) casellante:~#
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Nella prossima sessione di lavoro non ci sarà bisogno di ricreare l'ambiente virtuale, basterà solo attivarlo con il comando già visto:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;source activate pws
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Hai così realizzato un ambiente virtuale python per poter lavorare con pelican e i siti PMGC di Winston Smith.&lt;/p&gt;
+&lt;h2&gt;Installazione di Pelican e Markdown&lt;/h2&gt;
+&lt;p&gt;L'ultimo passo da compiere, una volta creato l'ambiente virtuale di lavoro, è l'installazione dei package di lavoro &lt;code&gt;pelican&lt;/code&gt; e &lt;code&gt;markdown&lt;/code&gt; attraverso il sistema di packaging standard di python &lt;code&gt;pip&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Il comando è:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;pip install pelican markdown
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Il sistema pip scaricherà questi pacchetti e tutte quelli necessari e completerà l'installazione in breve. Al termine potrai usare il comando:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;pelican-quickstart
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;come indicato dal &lt;a href="http://pelican.readthedocs.org/"&gt;tutorial&lt;/a&gt; di pelican.&lt;/p&gt;
+&lt;p&gt;Ecco fatto!&lt;/p&gt;
+&lt;p&gt;Ora puoi iniziare a &lt;a href="/"&gt;modificare una pagina di un sito PMGC&lt;/a&gt;&lt;/p&gt;</content><category term="misc"></category></entry></feed>
